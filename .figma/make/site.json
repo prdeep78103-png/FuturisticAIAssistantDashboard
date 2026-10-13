@@ -1,0 +1,10 @@
+{
+  "description": "An advanced AI desktop assistant offering voice control, app management, file handling, and messaging integration to boost productivity and streamline tasks.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
